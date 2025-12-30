@@ -1,5 +1,11 @@
-• Conversores – Swift
-• Desenvolvimento de sistema bancário com regras de negócio
-• Implementação de depósito, saque e validações
-• Foco em lógica de programação e organização de código
-• Projeto disponível no GitHub
+# Conevrsores App
+
+Calcula o valor informado e converte para o quer foi selecionado em Swift.
+
+## 🛠 Tecnologias usadas
+• Swift  
+• Xcode
+
+## 🔍 Funcionalidades
+• Inserir o valor que deseja converer
+• Calcula o valor informado e mostra resultado convertido
